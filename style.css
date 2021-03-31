@@ -165,7 +165,7 @@ p{
     justify-content: center;
     cursor: pointer;
     transform: scale(.8);
-    margin-right:10px ;
+    margin-right:20px ;
 }
 #header .hamburger::after{
     position: absolute;
